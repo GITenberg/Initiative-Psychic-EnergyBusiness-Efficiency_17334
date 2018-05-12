@@ -1,0 +1,36 @@
+_repo: Initiative-Psychic-EnergyBusiness-Efficiency_17334
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hilton, Warren
+    birthdate: 1874
+    deathdate: 1958
+    gutenberg_agent_id: '5222'
+    url: http://www.gutenberg.org/2009/agents/5222
+description: Title; Contents; Chapter I Mental Second Wind; Chapter Ii Reserves Of
+  Power; Chapter Iii The Initiative Energy Of Success; Chapter Iv How To Avoid Wastes
+  That Drain The Energy Of Success; Chapter V The Secret Of Mental Efficiency.
+gutenberg_bookshelf: Psychology
+gutenberg_issued: '2005-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17334'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Psychology, Applied'
+- !lcsh 'Psychic energy (Psychoanalysis)'
+title: 'Initiative Psychic Energy
+
+  Being the Sixth of a Series of Twelve Volumes on the
+
+  Applications of Psychology to the Problems of Personal and
+
+  Business Efficiency'
+url: http://www.gutenberg.org/ebooks/17334
